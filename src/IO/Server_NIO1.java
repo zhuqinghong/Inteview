@@ -36,6 +36,11 @@ package IO;
 public class Server_NIO1 {
 
     public static  void main(String[] args){
+        ThreadLocal<Integer> threadLocal = new ThreadLocal<>();
+
+
 
     }
 }
+
+
