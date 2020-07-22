@@ -21,7 +21,7 @@ public class Server_NIO {
 
         ServerSocketChannel ss = ServerSocketChannel.open();
         ss.bind(new InetSocketAddress(9090));
-        ss.configureBlocking(true);
+        ss.configureBlocking(true);     // OS的NIO
         //设置非阻塞
 
 
