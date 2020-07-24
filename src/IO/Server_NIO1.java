@@ -4,7 +4,9 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- *  IO多路复用
+ *  NIO多路复用
+ *
+ *
  *  使用一次系统调用
  *  查询到有哪些IO状态
  *
@@ -39,9 +41,7 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Server_NIO1 {
 
     public static  void main(String[] args){
-        ThreadLocal<Integer> threadLocal = new ThreadLocal<>();
 
-        Lock lock = new ReentrantLock();
 
 
     }

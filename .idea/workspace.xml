@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5090ba5-4a0d-4253-8462-c6cc1e398947" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Proxy1/Proxy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Proxy1/UserImpObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Proxy1/UserImpProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Proxy2/Proxy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Proxy2/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Proxy2/UserImpObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/Proxy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPC/Rpc01/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPC/Rpc01/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOC/tt.docx" beforeDir="false" afterPath="$PROJECT_DIR$/DOC/tt.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview/IO/Server_NIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/IO/Server_NIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/CycliBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/CycliBarrierDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/ProducerConsumer_BlockQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/ProducerConsumer_BlockQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/SemaphoreDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/ThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/ThreadPoolDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/VolatileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/VolatileDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/Server_NIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/Server_NIO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IO/Server_NIO1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/Server_NIO1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/IO/Server_NIO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="98">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IO/Server_NIO1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            <state relative-caret-position="598">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,71 +62,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy2/ProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="1197" column="20" selection-start-line="1197" selection-start-column="20" selection-end-line="1197" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding>
-                <element signature="e#32644#32645#0" expanded="true" />
-                <element signature="e#32694#32695#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
-              <folding>
-                <element signature="e#1663#1664#0" expanded="true" />
-                <element signature="e#1708#1709#0" expanded="true" />
-                <element signature="e#2022#2023#0" expanded="true" />
-                <element signature="e#2065#2066#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="411">
+              <caret line="738" column="30" selection-start-line="738" selection-start-column="30" selection-end-line="738" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Constructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="701" column="24" selection-start-line="701" selection-start-column="24" selection-end-line="701" selection-end-column="24" />
+            <state relative-caret-position="-486">
+              <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy1/UserImpObj.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-498">
-              <caret line="206" selection-start-line="206" selection-end-line="206" />
-              <folding>
-                <element signature="e#4309#4310#0" expanded="true" />
-                <element signature="e#4336#4337#0" expanded="true" />
-                <element signature="e#7765#7766#0" expanded="true" />
-                <element signature="e#7802#7803#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Objects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="181" column="31" selection-start-line="181" selection-start-column="31" selection-end-line="181" selection-end-column="31" />
+            <state relative-caret-position="222">
+              <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IO/Server_AIO.java">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy1/UserImpProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -116,11 +121,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IO/Server_BIO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="579">
+              <caret line="59" column="1" lean-forward="true" selection-start-line="9" selection-end-line="59" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -130,6 +144,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -165,8 +180,21 @@
         <option value="$PROJECT_DIR$/src/MyLock/RedisLock.java" />
         <option value="$PROJECT_DIR$/src/IO/Server_BIO.java" />
         <option value="$PROJECT_DIR$/src/volatiletest/ThreadPoolDemo.java" />
-        <option value="$PROJECT_DIR$/src/IO/Server_NIO.java" />
+        <option value="$PROJECT_DIR$/src/RPC/Sercer.java" />
+        <option value="$PROJECT_DIR$/src/RPC/Rpc01/Sercer.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/UserService.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy2.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy1/UserImpObj.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy1/UserImpProxy.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy1.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy2/UserObj.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy2/UserImpObj.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy2/ProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy3.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy1/Proxy1.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Proxy2/Proxy2.java" />
         <option value="$PROJECT_DIR$/src/IO/Server_NIO1.java" />
+        <option value="$PROJECT_DIR$/src/IO/Server_NIO.java" />
       </list>
     </option>
   </component>
@@ -180,6 +208,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,11 +225,6 @@
             <path>
               <item name="Inteview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Inteview" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inteview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inteview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -208,12 +233,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="IO" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Inteview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,6 +262,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Proxy.Proxy2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitRepo\Interview\DOC" />
     </key>
@@ -243,19 +282,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Server_NIO">
-    <configuration name="BlockQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="volatiletest.BlockQueueDemo" />
-      <module name="Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="volatiletest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JVMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JVMDemo.JVMDemo" />
       <module name="Interview" />
@@ -270,12 +296,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumer_BlockQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="volatiletest.ProducerConsumer_BlockQueueDemo" />
+    <configuration name="Proxy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proxy.Proxy1.Proxy1" />
       <module name="Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="volatiletest.*" />
+          <option name="PATTERN" value="Proxy.Proxy1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Proxy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proxy.Proxy2.Proxy2" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Proxy.Proxy2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,19 +349,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BlockQueueDemo" />
       <item itemvalue="Application.JVMDemo" />
-      <item itemvalue="Application.ProducerConsumer_BlockQueueDemo" />
       <item itemvalue="Application.Server_BIO" />
       <item itemvalue="Application.Server_NIO" />
+      <item itemvalue="Application.Proxy1" />
+      <item itemvalue="Application.Proxy2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Server_NIO" />
+        <item itemvalue="Application.Proxy2" />
+        <item itemvalue="Application.Proxy1" />
         <item itemvalue="Application.Server_BIO" />
         <item itemvalue="Application.JVMDemo" />
-        <item itemvalue="Application.ProducerConsumer_BlockQueueDemo" />
-        <item itemvalue="Application.BlockQueueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -351,11 +390,12 @@
       <workItem from="1595248497811" duration="1398000" />
       <workItem from="1595338854231" duration="5255000" />
       <workItem from="1595466047769" duration="2860000" />
+      <workItem from="1595574341854" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51772000" />
+    <option name="totallyTimeSpent" value="58046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,7 +409,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27382874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,18 +418,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928476" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3718663" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42618385" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38755304" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46251768" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.46251768" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.46251768" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32931727" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3281471" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -399,6 +438,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17627347" />
@@ -436,7 +476,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/aaa.java" />
     <entry file="file://$PROJECT_DIR$/src/ReWriteLockDemo.java" />
     <entry file="jar://E:/Java/jdk8/src.zip!/java/util/ArrayList.java" />
     <entry file="jar://E:/Java/jdk8/src.zip!/java/util/Set.java" />
@@ -540,16 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/Server_NIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -557,26 +586,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/Server_AIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/Server_BIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-498">
+        <state relative-caret-position="2640">
           <caret line="206" selection-start-line="206" selection-end-line="206" />
           <folding>
             <element signature="e#4309#4310#0" expanded="true" />
@@ -589,14 +601,14 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="2130">
           <caret line="181" column="31" selection-start-line="181" selection-start-column="31" selection-end-line="181" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
+        <state relative-caret-position="9735">
           <caret line="701" column="24" selection-start-line="701" selection-start-column="24" selection-end-line="701" selection-end-column="24" />
         </state>
       </provider>
@@ -610,8 +622,8 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        <state relative-caret-position="585">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
           <folding>
             <element signature="e#1663#1664#0" expanded="true" />
             <element signature="e#1708#1709#0" expanded="true" />
@@ -623,7 +635,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="17130">
           <caret line="1197" column="20" selection-start-line="1197" selection-start-column="20" selection-end-line="1197" selection-end-column="20" />
           <folding>
             <element signature="e#32644#32645#0" expanded="true" />
@@ -652,10 +664,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO/Server_AIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy2/UserObj.java" />
+    <entry file="file://$PROJECT_DIR$/src/RPC/Rpc01/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RPC/Rpc01/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy2/UserImpObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy1/Proxy1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy2/Proxy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy2/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="738" column="30" selection-start-line="738" selection-start-column="30" selection-end-line="738" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy1/UserImpObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Proxy1/UserImpProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IO/Server_NIO1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        <state relative-caret-position="598">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO/Server_BIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="9" selection-end-line="59" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO/Server_NIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
