@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5090ba5-4a0d-4253-8462-c6cc1e398947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/volatiletest/ProducersConsumers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOC/tt.docx" beforeDir="false" afterPath="$PROJECT_DIR$/DOC/tt.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview/META-INF/Interview.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/CycliBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/CycliBarrierDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/ProducerConsumer_BlockQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/ProducerConsumer_BlockQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/SemaphoreDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/ThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/ThreadPoolDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview/volatiletest/VolatileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview/volatiletest/VolatileDemo.class" afterDir="false" />
-    </list>
+    <list default="true" id="c5090ba5-4a0d-4253-8462-c6cc1e398947" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\GitRepo\Interview\.idea\shelf/" />
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
@@ -58,13 +49,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/volatiletest/ProducersConsumers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="19">
               <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/Interview/volatiletest/CycliBarrierDemo.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1078#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -235,7 +237,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597232018990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597232595142" />
     <property name="last_opened_file_path" value="D:/GitRepo/community/comminuty/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -377,12 +379,12 @@
       <workItem from="1596034380835" duration="65000" />
       <workItem from="1596452931522" duration="699000" />
       <workItem from="1597061660576" duration="5689000" />
-      <workItem from="1597144293973" duration="1657000" />
+      <workItem from="1597144293973" duration="2194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70957000" />
+    <option name="totallyTimeSpent" value="71494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,9 +413,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32841823" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.7882038" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29624665" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.8699732" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32707775" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -463,7 +465,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Java/jdk8/src.zip!/java/util/ArrayList.java" />
     <entry file="jar://E:/Java/jdk8/src.zip!/java/util/Set.java" />
     <entry file="jar://E:/Java/jdk8/src.zip!/java/util/SortedSet.java" />
     <entry file="jar://E:/Java/jdk8/src.zip!/java/util/SortedMap.java" />
@@ -695,10 +696,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/volatiletest/ProducersConsumers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="19">
           <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Interview/volatiletest/CycliBarrierDemo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1078#0" expanded="true" />
           </folding>
         </state>
       </provider>
